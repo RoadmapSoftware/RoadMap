@@ -10,17 +10,17 @@
 
 **Aim 1**. Accelerate development of a unified framework (**Fig. 1**) of the **ROADMAP** toolkit by   integrating/expanding the following software tools: (a) Patient anatomical and radiation device geometry  modeling, (b) DL-based automatic multi-organ segmentation, (c) GPU-based multi-particle Monte Carlo dose computing and (d) Dose Reporting.
 
-![](C:\Users\CQY\Documents\GitHub\RoadMap\pictures\pic1.png)
+![](pictures/pic1.png)
 
  
 
 **Aim 2**. Evaluate accuracy and utility of the **ROADMAP** toolkit by carrying out the following three parallel push-pull collaborative clinical application projects: (a) Diagnostic CT, (b) PET/CT and radionuclide therapy and (c) External-photon and proton beam therapy (**Fig. 2**). 
 
-<img src="C:\Users\CQY\Documents\GitHub\RoadMap\pictures\pic2.png" style="zoom: 67%;" />
+<img src="pictures/pic2.png" style="zoom: 67%;" />
 
 **Aim 3**. Maintain [**ROADMAP** GitHub repository](http://https://github.com/RoadmapSoftware/RoadMap)(**Fig. 3**) for software development, testing, validation, intercomparison, standardization and continuing self-sustainable update.
 
-![](C:\Users\CQY\Documents\GitHub\RoadMap\pictures\pic3.png)
+![](pictures/pic3.png)
 
 **Aim 4**. Facilitate dissemination of **ROADMAP** toolkit through community and professional engagement and feedback as part of the ITCR program activities including voluntary users below: 
 
