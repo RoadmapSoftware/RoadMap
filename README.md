@@ -10,13 +10,11 @@ We have assembled a distinguished interdisciplinary consortium from Rensselaer P
 
 **Aim 1.** Accelerate development of a unified framework (**Fig. 1**) of the **ROADMAP** toolkit by   	integrating/expanding the following software tools: (a) Patient anatomical and radiation device 	geometry  modeling, (b) DL-based automatic multi-organ segmentation, (c) GPU-based multi-particle Monte Carlo dose computing and (d) Dose Reporting.
 
-![](pictures/pic1.png)
-
- 
+<img src="pictures/pic1.png" style="zoom: 50%;" />
 
 **Aim 2.** Evaluate accuracy and utility of the **ROADMAP** toolkit by carrying out the following three parallel push-pull collaborative clinical application projects: (a) Diagnostic CT, (b) PET/CT and radionuclide therapy and (c) External-photon and proton beam therapy (**Fig. 2**). 
 
-<img src="pictures/pic2.png" style="zoom: 67%;" />
+<img src="pictures/pic2.png" style="zoom: 50%;" />
 
 **Aim 3.** Maintain [**ROADMAP** GitHub repository](http://github.com/RoadmapSoftware/RoadMap)(**Fig. 3**) for software development, testing, validation, intercomparison, standardization and continuing self-sustainable update.
 
