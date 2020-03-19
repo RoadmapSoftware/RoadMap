@@ -63,3 +63,9 @@ We have assembled a distinguished interdisciplinary consortium from Rensselaer P
 19. University of Wisconsin – Madison (Dr. Bryan Bednarz) – External-beam/radionuclide therapy
 
 20. Vanderbilt (Dr. George Ding) – CBCT imaging dose emailed 10/15/2019
+
+**Papers Being Published**
+
+1. [Adam DP, Liu T, Caracappa PF, Bednarz BP, Xu XG. New capabilities of the Monte Carlo dose engine ARCHER-RT: clinical validation of the Varian TrueBeam machine for VMAT external beam radiotherapy. Med Phys. (March 2020)](https://doi.org/10.1002/mp.14143)
+
+2. [Peng Z,Fang X, Yan P, Shan H, Liu T, Pei X, Wang G, Liu B, Kalra M, Xu XG. A Method of Rapid Quantification of Patient-Specific Organ Dose for CT Using Coupled Deep Multi-Organ Segmentation Algorithms and GPU-accelerated Monte Carlo Dose Computing Code. Med Phys. (March 2020)](https://doi.org/10.1002/mp.14131)
